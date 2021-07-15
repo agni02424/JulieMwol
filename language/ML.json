@@ -27,7 +27,7 @@
         },
         "admin": {
             "BAN_DESC": "groupil nin arellum porth akaan. ayallude messagin reply cheyu allenkill tag cheyyu.",
-            "IM_NOT_ADMIN": "*njan admin alla macha☹️*",
+            "IM_NOT_ADMIN": "*njan admin alla friend☹️*",
             "BANNED": "Mwonu Ok Bie!",
             "GIVE_ME_USER": "*arelum mention chey😈!*",
             "ADD_DESC": "Adds someone to the group.",
@@ -149,7 +149,7 @@
         },
         "profile": {
             "KICKME_DESC": "enne groupill nin purath akaan.",
-            "KICKME": "```Bye bye! njan povunnu 🤠```",
+            "KICKME": "```Bye bye! njan povunnu 😔```",
             "PP_DESC": "reply cheytha chithram profil akkaan.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```profile maattunnu...```",
